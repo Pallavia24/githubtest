@@ -1,3 +1,2 @@
 App
-Azure
-Spardfggggfcc
+using git and github
